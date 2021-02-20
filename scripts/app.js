@@ -13,7 +13,7 @@ var firebaseConfig = {
  firebase.initializeApp(firebaseConfig);
  firebase.analytics();
 
- let dataBase = firebase.firestore();
+ //let dataBase = firebase.firestore();
 // //Lendo Documentos de Collections =>
 // dataBase
 //   .collection("turmaA")
